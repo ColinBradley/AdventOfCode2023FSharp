@@ -84,32 +84,32 @@ zoneight234
         Assert.AreEqual(
             142,
             SolvePart1 part1ExampleData
-        );
+        )
 
     [<TestMethod>]
     member this.Part1 () =
         Assert.AreEqual(
             54081,
             SolvePart1 day1Data
-        );
+        )
 
     [<TestMethod>]
     member this.Part2Example () =
         Assert.AreEqual(
             281,
             SolvePart2 part2ExampleData
-        );
+        )
 
     [<TestMethod>]
     member this.Part2Example2 () =
         Assert.AreEqual(
             21,
             SolvePart2 part2ExmapleData2
-        );
+        )
 
     [<TestMethod>]
     member this.Part2 () =
         Assert.AreEqual(
             54649,
             SolvePart2 day1Data
-        );
+        )
